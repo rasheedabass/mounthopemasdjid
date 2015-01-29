@@ -1,4 +1,4 @@
-## Staging Site for Mount Hope Masjid
+## Staging Site for [Mount Hope Masjid](http://mounthopemasjid.com)
 
 http://rasheedabass.github.io/startbootstrap-agency
 
